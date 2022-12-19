@@ -4,7 +4,7 @@
 <body>
 
 <div ng-app="">
-  <h1>Hello meu nome é Tiffany Silva💻👾</h1>
+  <h1>Olá meu nome é Tiffany Silva, sou uma desenvolvedora júnior💻👾</h1>
 </div>
 
 </body>
