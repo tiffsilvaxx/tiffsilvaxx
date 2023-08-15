@@ -25,8 +25,8 @@ I'm studying the React.js framework</h3>
 
 <div align="center">
   <a href="https://github.com/tiffsilvaxx">
-  <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=tiffsilvaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsilvaxx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=tiffsilvaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsilvaxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 
