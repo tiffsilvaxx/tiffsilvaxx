@@ -9,6 +9,8 @@
 <h3 align="center"> I currently understand HTML, CSS and JavaScript.
 I'm studying the React.js framework</h3>
 
+  <h2> My skills and studies</h2>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,6 +19,7 @@ I'm studying the React.js framework</h3>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+ 
 </div>
 
 </body>
@@ -28,5 +31,7 @@ I'm studying the React.js framework</h3>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=tiffsilvaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsilvaxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  
   
 
