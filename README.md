@@ -4,7 +4,7 @@
 <body>
 
 <div ng-app="">
-  <h1>Olá meu nome é Tiffany Silva, sou uma desenvolvedora front-end💻👾</h1>
+  <h1> Developer Front-End💻👾</h1>
 </div>
 
 </body>
@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/tiffsilvaxx">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=tiffsilvaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsilvaxx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=tiffsilvaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsilvaxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
