@@ -4,7 +4,7 @@
 <body>
 
 <div ng-app="">
-  <h1> Developer Front-End💻👾</h1>
+  <h1 align="center"> Developer Front-End💻👾</h1>
 </div>
 
 </body>
