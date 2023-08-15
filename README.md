@@ -4,7 +4,12 @@
 <body>
 
 <div ng-app="">
-  <h1 align="center"> Developer Front-End💻👾</h1>
+<h3 align="center"> Developer Front-End💻</h3>
+
+<h1> I currently understand HTML, CSS and JavaScript.
+I'm currently studying the React.js framework</h1>
+
+  
 </div>
 
 </body>
