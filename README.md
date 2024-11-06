@@ -6,7 +6,6 @@
 <div ng-app="">
 <h2 align="center">👩‍💻 Front-End Developer</h2>
 
-<h3 align="center">I specialize in TypeScript and React.js. I have 6 months of experience working as a Junior Developer in TypeScript.</h3>
   
  
 </div>
